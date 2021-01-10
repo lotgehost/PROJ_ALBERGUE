@@ -1,5 +1,3 @@
-</html>
-
   <head>
 
     <title>Albergue</title>
@@ -101,8 +99,6 @@
   </body>
 
 
-
-</html>
 
 
 
